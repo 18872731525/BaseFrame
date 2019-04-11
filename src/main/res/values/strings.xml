@@ -1,0 +1,22 @@
+<resources>
+    <string name="network_error">เครื่อข่ายไม่ดี</string>
+    <string name="unknow_error">ข้อผิดพลาดไม่ทราบ</string>
+    <string name="network_error_btn">รีเฟรช</string>
+    <string name="no_data">ไร้ข้อมูล</string>
+    <string name="base_permisson_request">การสมัครขอบเขตอำนาจ</string>
+    <string name="permisson_tip2">ไม่มีอำนาจไปตั้งค่า</string>
+
+    <string name="go_setting">การตั้งค่า</string>
+
+    <string name="getpermisson_faild">รับอำนาจล้มเหลว</string>
+    <string name="photograph">การถ่ายภาพ</string>
+    <string name="select_from_album">การเลือกจากอัลปั้มภาพถ่าย</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="no_more_data">ไม่มีข้อมูลเพิ่มเติม</string>
+    <string name="load_end">ไม่มีข้อมูลเพิ่มเติม</string>
+
+    <string name="load_failed">โหลดเพิ่มเติมล้มเหลว</string>
+    <string name="loading">กำลังโหลดอยู่</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="network_error_tip">โหลดล้มเหลวกรุณาคลิกรีเฟรชใหม่</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="network_error">网络异常</string>
+    <string name="unknow_error">未知错误</string>
+    <string name="network_error_btn">刷新</string>
+    <string name="no_data">无数据</string>
+    <string name="base_permisson_request">权限申请</string>
+    <string name="permisson_tip2">无权限,去设置</string>
+
+    <string name="go_setting">设置</string>
+    <string name="getpermisson_faild">获取权限失败</string>
+    <string name="photograph">拍照</string>
+    <string name="select_from_album">从相册选择</string>
+    <string name="cancel">取消</string>
+    <string name="no_more_data">没有更多数据</string>
+    <string name="load_end">没有更多数据</string>
+    <string name="load_failed">加载更多失败</string>
+    <string name="loading">加载中...</string>
+    <string name="confirm">确定</string>
+    <string name="network_error_tip">加载失败，请点击刷新重试</string>
+</resources>
